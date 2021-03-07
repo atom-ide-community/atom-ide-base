@@ -85,7 +85,7 @@
     "etch": "^0.14.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "rxjs": "^6.6.3"
+    "rxjs": "^6.6.6"
   },
   "devDependencies": {
     "@babel/cli": "7.12.13",
